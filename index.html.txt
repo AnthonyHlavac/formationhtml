@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Y'a pas hein</title>
+</head>
+<body>
+
+<h1>Pourquoi/h1>
+<p>C'est casse ?</p>
+
+</body>
+</html>
